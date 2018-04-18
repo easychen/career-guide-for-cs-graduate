@@ -16,7 +16,7 @@
 
 > 本文作者 @Easy （ [weibo.com/easy](http://weibo.com/easy) ），方糖全栈课（ [quanzhanke.com](http://quanzhanke.com) ）主讲人，有多年大规模网站、云平台开发经验、曾运营过用户数十万的程序员拍卖平台，为上千名程序员找过工作。转载请保留以上作者信息和链接，谢谢。 
 
-![](https://ws1.sinaimg.cn/large/40dfde6fgy1fqh51hb1zpj20r20f8n17.jpg) 
+![](https://ws1.sinaimg.cn/large/40dfde6fgy1fqh551fuesj20r40fa43b.jpg) 
 
 
 ## 职业规划越早越好
