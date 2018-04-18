@@ -2,6 +2,8 @@
 
 最近帮了一个朋友的朋友做了下职业规划，结合之前在微博上的一些问答，觉得不少应届生同学对求职有蛮多误解的，所以这里分享下我的一点经验吧。
 
+![](https://ws1.sinaimg.cn/large/40dfde6fgy1fqh5iysqx1j20qy0f50xb.jpg) 
+
 本文略长，会谈及以下问题。
 
 - 职业规划越早越好
@@ -15,8 +17,6 @@
 下边我们一点一点来讲。
 
 > 本文作者 @Easy （ [weibo.com/easy](http://weibo.com/easy) ），方糖全栈课（ [quanzhanke.com](http://quanzhanke.com) ）主讲人，有多年大规模网站、云平台开发经验、曾运营过用户数十万的程序员拍卖平台，为上千名程序员找过工作。转载请保留以上作者信息和链接，谢谢。 
-
-![](https://ws1.sinaimg.cn/large/40dfde6fgy1fqh551fuesj20r40fa43b.jpg) 
 
 
 ## 职业规划越早越好
@@ -189,17 +189,9 @@
 
 虽然不是很全，但细节不错。
 
-前端：
-
-![](https://ws1.sinaimg.cn/large/40dfde6fgy1fqh4nk3d0ej214d2xc4qp.jpg)
-
-后端：
-
-![](https://ws1.sinaimg.cn/large/40dfde6fgy1fqh4nlxc7hj210u2sc4qp.jpg)
-
-DevOPs
-
-![](https://ws1.sinaimg.cn/large/40dfde6fgy1fqh4nj63kgj215i1bpduw.jpg)
+- [前端路线图](https://ws1.sinaimg.cn/large/40dfde6fgy1fqh4nk3d0ej214d2xc4qp.jpg) 
+- [后端路线图](https://ws1.sinaimg.cn/large/40dfde6fgy1fqh4nlxc7hj210u2sc4qp.jpg)
+- [DevOPs路线图](https://ws1.sinaimg.cn/large/40dfde6fgy1fqh4nj63kgj215i1bpduw.jpg)
 
 
 ## 技术栈的优化
