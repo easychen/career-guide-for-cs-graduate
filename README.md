@@ -223,7 +223,8 @@ DevOPs
 关于简历的写作技巧和工具，我之前写过一篇文章详细说明，可以点这里阅读 [《如何写出一份专业的技术简历》](https://juejin.im/book/59e17a7ff265da430629cc4e/section/59faec225188252abc5db42c) （这篇文章本身依然是免费的，不用购买小册就能读）
 
 ## 写在最后
-因为头条文章不能修改，所以我把文章也同时发布到了 GitHub，以后的更新会通过 GitHub 进行，欢迎 watch 和 star 。https://github.com/easychen/career-guide-for-cs-graduate
+
+不知不觉已经写了这么多了，其实还有一些内容想说，但暂时就不写到这里了。等以后有空我再整理一个小册子吧。我把文章也同时发布到了 GitHub，以后的更新会通过 GitHub 进行，欢迎 watch 和 star 。https://github.com/easychen/career-guide-for-cs-graduate
 
 PS：如果你还不知道怎么用 GitHub，那么赶紧学学吧，这可是程序员的必备（~~交友~~）工具哦。
 
