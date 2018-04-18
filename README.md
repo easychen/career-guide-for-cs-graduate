@@ -225,7 +225,7 @@ DevOPs
 ## 写在最后
 因为头条文章不能修改，所以我把文章也同时发布到了 GitHub，以后的更新会通过 GitHub 进行，欢迎 watch 和 star 。https://github.com/easychen/career-guide-for-cs-graduate
 
-PS：如果你还不知道怎么用 GitHub，那么赶紧学学吧，这可是程序员的必备（---交友---）工具哦。
+PS：如果你还不知道怎么用 GitHub，那么赶紧学学吧，这可是程序员的必备（~~交友~~）工具哦。
 
 
 
